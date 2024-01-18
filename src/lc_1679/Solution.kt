@@ -23,7 +23,3 @@ class Solution {
         return count
     }
 }
-
-fun main() {
-    println(Solution().maxOperations(intArrayOf(3, 1, 3, 4, 3), k = 6))
-}
